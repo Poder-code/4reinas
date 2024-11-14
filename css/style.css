@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+    background-color: #ffffff;
+}
+
+.container {
+    position: relative;
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container img {
+    width: 100vw;
+    height: 30%;
+    object-fit: cover;
+}
+
+.informacion {
+    position: relative;
+    top: -5%;
+}
+
+.prodcutos {
+    position: relative;
+    top: -5%;
+}
+
+.combos {
+    position: relative;
+    top: -5%;
+}
+
+.preventistas {
+    position: relative;
+    top: -5%;
+}
+
+.ayuda_solidaria {
+    position: relative;
+    top: -5%;
+}
