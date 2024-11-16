@@ -1,0 +1,15 @@
+.datos {
+    background-color: rgb(213, 234, 252);
+    padding: 151px 160px;
+    text-align: center;
+}
+
+.datos form {
+    margin: 0 auto;
+}
+
+.datos label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
