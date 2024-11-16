@@ -76,3 +76,48 @@
             padding: 20px 30px;
             font-size: 15px;
         }
+        
+        .pie {
+            color: #fff;
+            background-color: rgba(151, 47, 44, 0.849);
+        }
+        
+        .logo img {
+            position: absolute;
+            margin-left: 97%;
+            margin-top: -7.5%;
+            width: 3%;
+            height: 30px;
+            border-radius: 50%;
+            border: 1px solid rgba(151, 47, 44, 0.849);
+        }
+        
+        .ig img {
+            position: absolute;
+            margin-left: 97%;
+            margin-top: -4%;
+            width: 3%;
+            height: 30px;
+            border-radius: 50%;
+            border: 1px solid rgba(151, 47, 44, 0.849);
+        }
+        
+        .tel img {
+            position: absolute;
+            margin-left: 93%;
+            margin-top: -7.4%;
+            width: 3%;
+            height: 30px;
+            border-radius: 30%;
+            border: 1px solid rgba(151, 47, 44, 0.849);
+        }
+        
+        .gmail img {
+            position: absolute;
+            margin-left: 93%;
+            margin-top: -4%;
+            width: 3%;
+            height: 30px;
+            border-radius: 50%;
+            border: 1px solid rgba(151, 47, 44, 0.849);
+        }

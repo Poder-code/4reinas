@@ -1,0 +1,14 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.qr {
+    position: relative;
+    background-color: rgb(15, 14, 14);
+}
+
+.qr img {
+    height: 13%;
+    margin-left: 30%;
+}
