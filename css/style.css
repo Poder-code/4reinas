@@ -76,3 +76,8 @@ body {
     padding: 9px 9px;
     font-size: 15px;
 }
+
+.ofertas {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
