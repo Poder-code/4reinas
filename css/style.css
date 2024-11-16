@@ -1,5 +1,5 @@
     * {
-        margin: 0;
+        margin: 0%;
         padding: 0%;
         box-sizing: border-box;
     }
@@ -24,4 +24,55 @@
         width: 100vw;
         height: 30%;
         object-fit: cover;
+    }
+    
+    .inicio {
+        display: flex;
+        gap: 10px;
+        margin-top: -3%;
+    }
+    
+    .informacion {
+        background-color: beige;
+        margin-top: -1%;
+        padding: 15px 30px;
+        font-size: 15px;
+    }
+    
+    .productos {
+        background-color: beige;
+        margin-top: -1%;
+        padding: 15px 30px;
+        font-size: 15px;
+    }
+    
+    .combos {
+        background-color: beige;
+        margin-top: -1%;
+        padding: 15px 25px;
+        font-size: 15px;
+    }
+    
+    .preventista {
+        background-color: beige;
+        margin-top: -1%;
+        padding: 15px 30px;
+        font-size: 15px;
+        margin-left: 32.5%;
+    }
+    
+    .ayuda_solidaria {
+        background-color: beige;
+        margin-top: -1%;
+        padding: 15px 30px;
+        font-size: 15px;
+    }
+    
+    .datos {
+        position: relative;
+        margin-top: -4%;
+        margin-left: 94.5%;
+        background-color: rgb(255, 248, 248);
+        padding: 9px 9px;
+        font-size: 15px;
     }
