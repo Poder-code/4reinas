@@ -26,6 +26,15 @@
             object-fit: cover;
         }
         
+        .ppal img {
+            position: absolute;
+            margin-top: 1%;
+            width: 6vw;
+            height: 11%;
+            border-radius: 100%;
+            border: 7px solid rgba(0, 0, 0, 0.849);
+        }
+        
         .inicio {
             display: flex;
             gap: 10px;

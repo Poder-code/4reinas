@@ -21,3 +21,12 @@
     border: 1px solid#554747;
     border-radius: 5px;
 }
+
+.ppal img {
+    position: absolute;
+    margin-top: 0%;
+    width: 5vw;
+    height: 10%;
+    border-radius: 100%;
+    border: 7px solid rgba(0, 0, 0, 0.849);
+}

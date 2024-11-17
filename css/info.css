@@ -1,5 +1,11 @@
 * {
     background-color: rgb(213, 234, 252);
-    padding: 10px 40px;
+    padding: 8px 40px;
     text-align: center;
+}
+
+.ppal img {
+    margin-left: -50%;
+    position: absolute;
+    margin-top: -1%;
 }
