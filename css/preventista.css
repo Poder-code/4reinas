@@ -1,8 +1,34 @@
+* {
+    background-color: black;
+}
+
 .ppal img {
     position: absolute;
-    margin-top: 1%;
+    margin-top: 0%;
     width: 6vw;
     height: 11%;
     border-radius: 100%;
     border: 7px solid rgba(0, 0, 0, 0.849);
+}
+
+.qrnacho img {
+    margin-top: -1%;
+    margin-left: 20%;
+}
+
+.qrnacho h1 {
+    margin-left: 27%;
+    margin-top: -60%;
+    color: white;
+}
+
+.qrema img {
+    margin-left: 20%;
+    margin-top: 54%;
+}
+
+.qrema h1 {
+    margin-left: 27%;
+    margin-top: -60%;
+    color: white;
 }

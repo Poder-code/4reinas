@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #110e0e;
+}
+
+.productos img {
+    display: flex;
+    width: 100%;
+    max-width: 600px;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.ppal img {
+    position: absolute;
+    margin-top: 0%;
+    width: 6vw;
+    height: 11%;
+    border-radius: 100%;
+    border: 7px solid rgba(0, 0, 0, 0.849);
+}
