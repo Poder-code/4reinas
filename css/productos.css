@@ -13,7 +13,14 @@ body {
     width: 100%;
     max-width: 600px;
     overflow: hidden;
-    margin: 60px auto;
+    margin: 10px auto;
 }
 
-.cerveza {}
+.ppal img {
+    position: absolute;
+    margin-top: 0%;
+    width: 6vw;
+    height: 11%;
+    border-radius: 100%;
+    border: 7px solid rgba(0, 0, 0, 0.849);
+}
