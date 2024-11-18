@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #110e0e;
+}
+
+.productos img {
+    display: flex;
+    width: 100%;
+    max-width: 600px;
+    overflow: hidden;
+    margin: 60px auto;
+}
+
+.cerveza {}
