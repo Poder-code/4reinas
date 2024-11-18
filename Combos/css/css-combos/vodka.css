@@ -1,0 +1,46 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #110e0e;
+}
+
+.ppal img {
+    margin-left: 93.5%;
+    position: absolute;
+    margin-top: 0%;
+    width: 6vw;
+    height: 11%;
+    border-radius: 100%;
+    border: 7px solid rgba(0, 0, 0, 0.849);
+}
+
+.vodka img {
+    width: 42vw;
+    height: 45vw;
+    margin-top: 1%;
+    object-fit: cover;
+}
+
+.vodka {
+    color: white;
+}
+
+.details {
+    position: relative;
+    margin-top: -41%;
+    width: 55%;
+    margin-left: 42.5%;
+    border-radius: 0%;
+    border: 5px solid rgb(82, 24, 24);
+}
+
+.precio {
+    position: relative;
+    margin-top: 1%;
+    margin-left: 0%;
+    border-radius: 0%;
+    border: 5px solid rgb(82, 24, 24);
+}
